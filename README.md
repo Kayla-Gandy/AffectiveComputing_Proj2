@@ -5,3 +5,6 @@ Compile with command `Project2.py W H dataDirectory`
 - `W` is the width of an image (int)
 - `H` is the height of an image (int)
 - `dataDirectory` is directory containing training and testing data. Absolute directory.
+
+Compile command example:
+`python3 Project2.py 128 128 Project2Data`
